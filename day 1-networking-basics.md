@@ -1,6 +1,6 @@
 # Day 1 - Networking Basics
 
-##Date
+## Date
 
 07 July 2026
 
