@@ -1,8 +1,5 @@
 # Day 1 - Networking Basics
 
-## Date
-02 July 2026
-
 ## Topics Learned
 
 - What is a Network?
