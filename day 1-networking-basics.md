@@ -95,17 +95,6 @@ ping google.com -c 4
 nslookup google.com
 ---
 
-## Interview Questions
-
-1. What is an IP Address?
-2. What is the difference between Public IP and Private IP?
-3. What is DNS?
-4. Which port does DNS use?
-5. What is the purpose of the ping command?
-6. What does the nslookup command do?
-
----
-
 ## Summary
 
 Today I learned the basics of computer networking, including IP addresses, DNS, ping, nslookup, and common network ports.
