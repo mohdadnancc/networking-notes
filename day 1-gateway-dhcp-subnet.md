@@ -1,4 +1,4 @@
-# Day 2 - Default Gateway, DHCP and Subnet Basics
+# Day 1 - Default Gateway, DHCP and Subnet Basics
 
 ## Date
 
